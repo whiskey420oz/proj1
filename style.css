@@ -108,7 +108,7 @@ header .navbar a:hover {
     min-height: 108vh;
     display: flex;
     align-items: center;
-    background: url(../images/home-bg1.png) no-repeat;
+    background: url(../home-bg1.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -369,7 +369,7 @@ header .navbar a:hover {
     margin: 1rem;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .9);
-    background: #fff url(../images/card-bg.png) no-repeat;
+    background: #fff url(../card-bg.png) no-repeat;
     display: flex;
     padding: 4.7rem 2rem;
     text-align: center;
