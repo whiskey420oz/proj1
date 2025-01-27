@@ -108,7 +108,7 @@ header .navbar a:hover {
     min-height: 108vh;
     display: flex;
     align-items: center;
-    background: url(../home-bg1.png) no-repeat;
+    background: url(home-bg1.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
